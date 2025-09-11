@@ -1,4 +1,4 @@
-EXP NO:11 C PROGRAM TO DISPLAY STACK ELEMENTS USING AN ARRAY.
+## EXP NO:11 C PROGRAM TO DISPLAY STACK ELEMENTS USING AN ARRAY.
 
 Aim:
 To write a C program to display stack elements using an array.
@@ -38,7 +38,7 @@ Result:
 Thus, the program to display stack elements using an array is verified successfully.
  
 
-EXP NO:12  PROGRAM TO PUSH THE GIVEN ELEMENT IN TO A STACK USING ARRAY.
+## EXP NO:12  PROGRAM TO PUSH THE GIVEN ELEMENT IN TO A STACK USING ARRAY.
 Aim:
 To create a C program to push the given element in to a stack using array.
 Algorithm:
@@ -67,6 +67,8 @@ void push(float data)
 ```
 
 Output:
+
+
 <img width="1012" height="863" alt="image" src="https://github.com/user-attachments/assets/0ce32dfb-bf31-47e3-ae56-6a39d79902eb" />
 
 
@@ -78,7 +80,7 @@ Thus, the program to push the given element in to a stack using array is verifie
 
 
  
-EXP NO:13 C PROGRAM TO DISPLAY QUEUE ELEMENTS USING ARRAY.
+## EXP NO:13 C PROGRAM TO DISPLAY QUEUE ELEMENTS USING ARRAY.
 Aim:
 To write a C program to display queue elements using array
 
@@ -120,7 +122,7 @@ Thus, the program to display queue elements using array is verified successfully
 
 
  
-EXP NO:14 C PROGRAM TO INSERT ELEMENTS IN QUEUE USING ARRAY.
+## EXP NO:14 C PROGRAM TO INSERT ELEMENTS IN QUEUE USING ARRAY.
 Aim:
 To write a C program to insert elements in queue using array.
 
@@ -160,7 +162,7 @@ Thus, the program to insert elements in queue using array is verified successful
 
 
  
-EXP NO:15 C FUNCTION TO DELETE ELEMENTS IN QUEUE USING ARRAY
+## EXP NO:15 C FUNCTION TO DELETE ELEMENTS IN QUEUE USING ARRAY
 
 
 
