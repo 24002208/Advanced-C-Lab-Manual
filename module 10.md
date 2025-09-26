@@ -14,7 +14,7 @@ Program:
 #include <stdio.h>
 struct Node{
     int data;
-    struct Node *next;
+    struct Node *next; 
 } *head = NULL;
 
 void search(int data){
