@@ -14,7 +14,7 @@ Algorithm:
 4.	Declare a pointer p and initialize it with the head of the linked list.
 5.	Use a while loop to traverse the linked list:
 6.	Print the data of the current node.
-7.	Move to the next node using the next pointer.
+7.	Move to the next node using the next pointer. 
  
 Program:
 
