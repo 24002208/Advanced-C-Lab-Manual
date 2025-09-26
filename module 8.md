@@ -13,7 +13,7 @@ Algorithm:
 -	...
 -	Case 13: Print "seventy nine"
 -	Default: Print "Greater than 13"
-4.	Exit the program.
+4.	Exit the program. 
  
 Program:
 ```
